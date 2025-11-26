@@ -114,7 +114,7 @@ Error metrics
 
 Predictions can be downloaded as CSV or PDF.
 
-🧠 Example Use Cases
+ Example Use Cases
 
 Retail inventory planning
 
@@ -128,7 +128,7 @@ FMCG distribution optimization
 
 Warehouse stock visibility
 
-🧩 Roadmap
+ Roadmap
 
  Add multi-store forecasting
 
@@ -144,7 +144,7 @@ Warehouse stock visibility
 
  Add user accounts and authentication
 
-📚 Documentation
+ Documentation
 
 Full product documentation is available in the /docs/ folder:
 
@@ -154,16 +154,16 @@ api_reference.md – Modules/functions
 
 user_guide.md – How to use the product
 
-🤝 Contributing
+ Contributing
 
 Contributions are welcome!
 Please open an Issue or submit a Pull Request.
 
-📜 License
+ License
 
 This project is licensed under the MIT License.
 
-⭐ Acknowledgement
+ Acknowledgement
 
 Built for the Afritech 30-Day AI Challenge
 Follow the journey on LinkedIn: #AfritechAIChallenge #StockSenseAI
